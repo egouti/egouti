@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emma!
-- 👀 I’m interested in leanring
-- 🌱 I’m currently learning everything :sweat_smile:
+- 👀 I’m interested in learning new things
+- :brain: I’m currently learning everything :sweat_smile:
 
 <!---
 egouti/egouti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
